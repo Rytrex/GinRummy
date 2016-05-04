@@ -7,3 +7,5 @@ No Computer was programmed, but we have left space for it if ever to be done.
 This game uses Unicode in the output so please enable it in your IDE.
 
 Programmed in Eclipse.
+
+This program will no longer be updated.
